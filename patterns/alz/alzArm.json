@@ -19,12 +19,6 @@
                 "description": "The customer usage identifier used for telemetry purposes. The default value of False enables telemetry. The value of True disables telemetry."
             }
         },
-        "platformManagementGroup": {
-            "type": "string",
-            "metadata": {
-                "description": "Provide the name of the Management Group that will be used to host the platform resources."
-            }
-        },
         "IdentityManagementGroup": {
             "type": "string",
             "metadata": {
